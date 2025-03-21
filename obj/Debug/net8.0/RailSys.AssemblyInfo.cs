@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RailSys")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6a9df20a0ac9d8bfd2a6e38fda32bdf5b0dba4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+101b904aba15534f9a40ab40e20700bce7c386be")]
 [assembly: System.Reflection.AssemblyProductAttribute("RailSys")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RailSys")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
